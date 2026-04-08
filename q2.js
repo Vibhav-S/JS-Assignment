@@ -1,5 +1,4 @@
-// Question 2: Roll-Seed Lock
-// Apply 3 steps to N using seed rules, then check result
+
 
 var N = parseInt(prompt("Enter N:"));
 var seed = parseInt(prompt("Enter seed:"));
