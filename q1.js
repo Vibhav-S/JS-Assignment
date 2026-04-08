@@ -1,6 +1,3 @@
-// Question 1: Digit Gatekeeper
-// Count integers x where L <= x <= R, divisible by K,
-// digit sum is prime, and x has no digit 0
 
 var L = parseInt(prompt("Enter L:"));
 var R = parseInt(prompt("Enter R:"));
