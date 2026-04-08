@@ -1,5 +1,3 @@
-// Question 6: Contest Score Judge
-// Compute score from correct, partial, wrong answers
 
 var a = parseInt(prompt("Enter correct answers (a):"));
 var b = parseInt(prompt("Enter partially correct answers (b):"));
