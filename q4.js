@@ -1,5 +1,4 @@
-// Question 4: Fare Calculator
-// Compute ride fare based on base, distance, minutesLate, seed
+
 
 var base = parseInt(prompt("Enter base:"));
 var distance = parseInt(prompt("Enter distance:"));
